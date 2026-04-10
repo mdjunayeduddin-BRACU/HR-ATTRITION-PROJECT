@@ -91,7 +91,7 @@ Employee turnover costs companies **33-200% of annual salary** ($20k-$120k per e
 ## 👨‍💻 Author
 
 **Name:** MD Junayed Uddin 
-**Course:** Business Analytics  
+**Course:** Applied Machine Learning for Business Analytics with Python 
 **Date:** 05/10/2026
 
 ---

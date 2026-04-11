@@ -73,7 +73,7 @@ Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 
 ## 📁 Files
 - `hr_attrition_prediction.ipynb` - Code
-- `hr_employee_attrition.csv` - Data
+- `hr_attrition.csv` - Data
 
 ## 👨‍💻 Author
 Name: MD  Junayed Uddin 
